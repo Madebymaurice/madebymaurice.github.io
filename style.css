@@ -105,10 +105,10 @@ section{
   padding: 30px;
 }
 .bg-light{
-  background-image: url("./images/_bg_light.png");
+  background-image: url("https://raw.githubusercontent.com/Madebymaurice/madebymaurice.github.io/master/images/_bg_light.png");
 }
 .bg-dark{
-  background-image: url("./images/_bg_dark.png");
+  background-image: url("https://raw.githubusercontent.com/Madebymaurice/madebymaurice.github.io/master/images/_bg_dark.png");
   color:#fff;
 }
 p{
