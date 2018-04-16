@@ -84,6 +84,9 @@ h2{
   font-size: 1.5em;
   display: inline-block;
 }
+#ring h2:before, #ring h2:after{
+  content:"";
+}
 h2:before, h2:after{
   content: "ij";
   font-family: 'tengwar_annataritalic';
